@@ -1,0 +1,18 @@
+body {
+    background-color: brown;
+}
+.it {
+    width: 650;
+    height: 550;
+    background-color: aqua;
+    margin-right: auto;
+    margin-left: auto;
+}
+div {
+    height: 250;
+    width: 650;
+    background-color: palevioletred;
+}
+.they {
+    margin-right: 50%;
+}
