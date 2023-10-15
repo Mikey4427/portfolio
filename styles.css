@@ -12,7 +12,17 @@ div {
     height: 250;
     width: 650;
     background-color: palevioletred;
+    border: 1px solid black;
+    border-radius: 25px;
 }
 .they {
     margin-right: 50%;
+}
+img {
+    border: 1px solid green;
+    border-radius: 25px;
+}
+#p1 {
+    font-family: papyrus;
+    font-size: large;
 }
